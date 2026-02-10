@@ -1,4 +1,10 @@
+<div style="width=100%">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"
+  width="100%"
+/>
 
+</div>
 <div align="center">
    <h1>Hi there, I'm <a href="#">Juned Shaikh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
